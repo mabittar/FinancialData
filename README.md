@@ -15,6 +15,8 @@ To do list :coffee: :
 
        [ x] - Quandl
 
+       [ x] - Pandas DataReaders
+
        ...
 
        [ x] - export data to others steps
@@ -23,17 +25,18 @@ To do list :coffee: :
        1.1.1 [ ] Compare different ways of acquiring data 
 
  
-1.2 [ ] Treating data 
+1.2 [x ] Treating data 
  
 1.3 [ ] Statistical Analysis 
  
        1.3.1 graphics
-       - [ ] close price at time
-       - [ ] adjusted close price
-       - [ ] normalize and compare diferente stocks close price at same start time
-       - [ ] normalize and compare return
-       - [ ] moving avarge
+       - [x ] close price at time
+       - [x ] adjusted close price
+       - [x ] normalize and compare diferente stocks close price at same start time
+       - [x ] normalize and compare return
+       - [x ] moving avarge
        - [ ] Bollinger Bands
+       - [ ] exponential movving avarge
       
       
 ### 2. Fundamentalist Analysis 

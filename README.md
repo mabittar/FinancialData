@@ -48,5 +48,5 @@ To do list :coffee: :
 
 2.2 [ ] Treating data 
 
-3.3 [ ] Statistical Analysis
+2.3 [ ] Statistical Analysis
        - [ ] Correlational x Influence in stock price

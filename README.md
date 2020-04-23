@@ -1,52 +1,63 @@
-# FinancialData
+<h1>FinancialData</h1>
+
+PT-Br:
+## Esse repositório vai me ajudar a manter os passo utilizados no meu aprendizado e ajudar outros no mesmo caminho.
+ Basicamente irei utilizar ações e dados das empresas listadas na Bovespa e demais índices relacionados a economia brasiliera.
+
+En-Us:
 ## This repository it will be used to track my learns and help others to in the same path
+Basically I will use shares and data from companies listed on Bovespa and other indexes related to the Brazilian economy.
 
-PT-Br: Basicamente irei utilizar ações e dados das empesas listadas na Bovespa e demais índices relacionados a economia brasiliera.
 
-En-Us: Basically I will use shares and data from companies listed on Bovespa and other indexes related to the Brazilian economy.
+
 
 
 To do list :coffee: :
-
-### 1. Tecnical Analysis (graphic) 
-1.1 [ ] Acquiring financial data (date, open, close, max, min, volume, adjust close)
-
-       [ x] - YFinance (yahoo finance data)
-
-       [ x] - Quandl
-
-       [ x] - Pandas DataReaders
-
-       ...
-
-       [ x] - export data to others steps
-       [ ]  - BONUS: export directly from google colab to the rep
-
-       1.1.1 [ ] Compare different ways of acquiring data 
-
- 
-1.2 [x ] Treating data 
- 
-1.3 [ ] Statistical Analysis 
- 
-       1.3.1 graphics
-       - [x ] close price at time
-       - [x ] adjusted close price
-       - [x ] normalize and compare diferente stocks close price at same start time
-       - [x ] normalize and compare return
-       - [x ] moving avarge
-       - [ ] Bollinger Bands
-       - [ ] exponential movving avarge
-      
-      
-### 2. Fundamentalist Analysis 
-2.1 [ ] Acquiring open company data 
-
-       - [ ] Fundamentus (fundamentus.com.br)
-
-       - [ ] Other Economics indexes
-
-2.2 [ ] Treating data 
-
-2.3 [ ] Statistical Analysis
-       - [ ] Correlational x Influence in stock price
+<ol>
+<li>Tecnical Analysis (graphic)
+       <ol>
+       <li>[x] Acquiring financial data (date, open, close, max, min, volume, adjust close)
+                     <ul>                    
+                     <li>[x] - YFinance (yahoo finance data)</li>
+                     <li>[x] - Quandl</li>
+                     <li>[x] - Pandas DataReaders</li>
+                     <li>...</li>
+                     <li>[x] - export data to others steps</li>
+                     <li>[ ]  - BONUS: export directly from google colab to the rep</li>
+                     </ul>
+              <ol>
+              <li>[ ] Compare different ways of acquiring data</li> 
+              </ol>
+       </li>
+       <li>[x]Treating data</li> 
+       <li>[ ]Statistical Analysis </li> 
+              <ol>
+              <li>Graphics and display data
+                     <ul>
+                     <li>[x] close price at time</li>
+                            <li>[x] adjusted close price</li>
+                            <li>[x] normalize and compare diferente stocks close price at same start time</li>
+                            <li>[x] normalize and compare return</li>
+                            <li>[x] moving avarge</li>
+                            <li>[ ] Bollinger Bands</li>
+                            <li>[ ] exponential movving avarge </li>
+                     </ul>
+              </li>      
+              </ol>
+      </ol>
+<li>Fundamentalist Analysis
+       <ol>
+       <li>[ ] Acquiring open company data
+              <ul>
+                     <li>[ ] Fundamentus (fundamentus.com.br)</li>
+                     <li>[ ] Other Economics indexes</li>
+              </ul>
+       </li>
+       <li>[ ] Treating data</li>
+       <li>[ ] Statistical Analysis</li>
+              <ul>
+              <li>[ ] Correlational x Influence in stock price</li>
+              </ul>
+      </ol>
+</li>
+</ol>

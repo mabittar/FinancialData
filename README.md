@@ -13,11 +13,12 @@ To do list :coffee: :
 
        [ x] - YFinance (yahoo finance data)
 
-       [ ] - Quandl
+       [ x] - Quandl
 
        ...
 
-       [ ] - export data to others steps
+       [ x] - export data to others steps
+       [ ]  - BONUS: export directly from google colab to the rep
 
        1.1.1 [ ] Compare different ways of acquiring data 
 

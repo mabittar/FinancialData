@@ -47,13 +47,13 @@ To do list :coffee: :
       </ol>
 <li>Fundamentalist Analysis
        <ol>
-       <li>[ ] Acquiring open company data
+       <li>[x ] Acquiring open company data
               <ul>
-                     <li>[ ] Fundamentus (fundamentus.com.br)</li>
+                     <li>[x ] Fundamentus (fundamentus.com.br)</li>
                      <li>[ ] Other Economics indexes</li>
               </ul>
        </li>
-       <li>[ ] Treating data</li>
+       <li>[x ] Treating data</li>
        <li>[ ] Statistical Analysis</li>
               <ul>
               <li>[ ] Correlational x Influence in stock price</li>

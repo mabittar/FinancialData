@@ -2,7 +2,7 @@
 
 PT-Br:
 ## Esse repositório vai me ajudar a manter os passo utilizados no meu aprendizado e ajudar outros no mesmo caminho.
- Basicamente irei utilizar ações e dados das empresas listadas na Bovespa e demais índices relacionados a economia brasiliera.
+ Basicamente irei utilizar ações e dados das empresas listadas na Bovespa e demais índices relacionados a economia brasileira.
 
 En-Us:
 ## This repository it will be used to track my learns and help others to in the same path
